@@ -1,0 +1,94 @@
+#agrupar
+{
+margin: 20px;
+text-align: left;
+}
+
+#lista
+{
+background: skyblue;
+padding: 1px 1px;
+}
+#lista li{
+display: inline-block;
+list-style: none;
+padding: 0px;
+font: bold 20px verdana, sans-serif;
+margin-left: 80px;
+
+}
+
+#lista li:hover
+{
+background-color: lightcyan;
+padding:  15px 25px;
+margin-top: -4;
+border: lightcyan;
+}
+
+#cabeza
+{
+background: lightblue;
+border: solid lightblue; 2px;
+padding: 10px;
+}
+
+h1
+{
+font: bold verdana, sans-serif;
+margin-left: 480px;
+color: blue;
+}
+
+hgroup
+{
+padding: 7px;
+background: darkgray;
+width: 190px;
+text-align: center;
+margin: 20px;
+}
+
+header
+{
+padding: 30px;
+font: bold;
+}
+
+#seccion
+{
+float: left;
+padding: 25px;
+background: lightgray;
+margin: 50px 30px;
+}
+
+
+#columna2
+{
+float: left;
+padding: 20px;
+background: lightseagreen;
+margin: 230px 70px;
+}
+
+
+#columna3
+{
+float: left;
+padding: 20px;
+background: lightseagreen;
+margin: -190px 75px;
+}
+
+
+#columna1
+{
+float: left;
+padding: 20px;
+background: lightseagreen;
+margin: 150px 70px;
+}
+
+
+
